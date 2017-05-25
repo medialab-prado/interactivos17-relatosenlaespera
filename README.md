@@ -1,8 +1,8 @@
-# interactivos17-relatosenlaespera espera 
+# interactivos17-relatosenlaespera  
 # Descripción del proyecto
 [![ProjectImage](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)](http://projectWeb.com/)
 ### Idea
-Explicar aquí el porqué del proyecto, el concepto. 
+Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera? 
 ### Implementación
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
