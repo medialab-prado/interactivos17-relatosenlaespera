@@ -1,6 +1,7 @@
 # interactivos17-relatosenlaespera  
 # Descripción del proyecto
-[![ProjectImage](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)](http://projectWeb.com/)
+![](LOGOFINAL.jpg)
+
 ### Idea
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera? 
 ### Implementación
