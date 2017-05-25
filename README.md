@@ -1,4 +1,3 @@
-# FRAN NOS HACE BULLYING!
 # interactivos17-relatosenlaespera  
 # Descripción del proyecto
 ![](LOGOFINAL.jpg)
