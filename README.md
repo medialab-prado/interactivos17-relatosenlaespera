@@ -3,19 +3,29 @@ Antes de empezar a movernos con el transporte público vivimos en la ‘espera�
 
 ![](LOGOFINAL.jpg)
 ### Idea
-Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera? 
+Hoy en día los usuarios del transporte público suelen estar notificados del intervalo de espera. El proyecto quiere aprovecharse de ese tiempo de una forma alternativa, e involucrar al viajero en una experiencia extraña pero enriquecedora.
+
+Se propone desarrollar un prototipo que se active una vez el tiempo de espera comience. Una señal debe invitar al usuario a acercar su teléfono móvil. Después interactuará respondiendo a una pregunta sobre cuál es su tiempo de espera estimado. Una vez contestada, un microrrelato ajustado al tiempo comienza a sonar en su teléfono. Una acción que le permite viajar sin moverse.
+
 ### Implementación
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
 # Promotores y colaboradores: 
-### Equipos: 
-+ Pepa Pig (pepa@pig.com)
-+ Nikola Tesla (www.atopedealterna.com)
-+ Austin Powers
+### Equipo: 
++ Katerina Psegiannaki (www.kuneoffice.com/)
++ Francisco García Triviño (http://www.kuneoffice.com/)
++ José Manuel López Ujaque (http://www.kuneoffice.com/)
 ### Colaboradores
-+ Michael Knight 
-+ Steven Seagal (wanna@challenge.me)
-+ Los Chunguitos
++ Sandra Vivar Maestre (www.sandramind.design/)
++ Katalina Soto Rivera (https://www.behance.net/katakatasoto)
++ Mario Alejandro Alzate López (www.marioalzatelopez.com)
++ Inmanulada Marruecos Payán 
++ Marta Felipe Soria 
+### Autores e Interpretadores de los textos
++ Manuel de la Cruz
++ Gonzalo Pendolema 
++ 
+
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
