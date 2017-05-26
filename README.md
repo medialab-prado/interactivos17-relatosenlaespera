@@ -7,13 +7,13 @@ Hoy en día los usuarios del transporte público suelen estar notificados del in
 
 ### 2-Implementación
 
-### 2.1 Estado del Arte. 
+### 2-1 Estado del Arte. 
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurren durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiandas de bajo dos parámetros, nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegido por su fuerte vinculación con el transportae, el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y alejamiento a un ciudada volcado exclusivamente en lo visual que le ofrece el teléfono movil o la publicacidad urbana.  
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxreferencias usadasXXXXXXXXXXXXXXXXXx
 
-### 2.3 Caso de estudio. 
+### 2-2 Caso a estudiar. 
 De los modos de transporte donde se lleva a cabo la espera, autobus o metro, se decide estudiar el primero frente al segundo, por tener este menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobus, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en estos suelen ser más genéricos. 
 
 De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a usuario a centros productivos de la ciudad, sino es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
@@ -28,15 +28,35 @@ Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgráfica de los datosxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Así mismo se ha llevado a cabo una encuesta por las redes, para saber la disponibilidad del 
+Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus y en redes sociales, para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas.
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgráfica del cuestionario xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-##### Tecnología: Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera al lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se vio factible por la deslocalización al lugar y el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
+El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
+
+### 3 Desarrollo de los relatos. 
+A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de instrucciones. Se adjunta el mail de invitación. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que puedes servir para construir los relatos. 
+
+Así mismo, gracias a la colaboración de dos actores, los textos han sido interpretados para que el contenido tuviera más matices. 
+
+### 4.Tecnología 
+Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera al lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se vio factible por la deslocalización al lugar y el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
 
 Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispotivio que con apariencia de teléfono permitiera narrar las historias. Junto a el una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.  
 
+El producto final ha necesitado de: 
++ 1 tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
++ 2 sensor de distancia
++ 3 arduino
++ 4 conexiones
+
+### 5.Experiencia del usuario.  
+
+
+
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
+
 # Promotores y colaboradores: 
 ### Equipo: 
 + Katerina Psegiannaki (www.kuneoffice.com/)
@@ -46,12 +66,11 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Sandra Vivar Maestre (www.sandramind.design/)
 + Katalina Soto Rivera (https://www.behance.net/katakatasoto)
 + Mario Alejandro Alzate López (www.marioalzatelopez.com)
-+ Inmanulada Marruecos Payán 
++ Inmanulada Marruecos Payán (www.behance.net/inmarru)
 + Marta Felipe Soria 
 ### Autores e Interpretadores de los textos
 + Manuel de la Cruz
 + Gonzalo Pendolema 
-+ 
 
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
