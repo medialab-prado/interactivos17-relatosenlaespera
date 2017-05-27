@@ -10,6 +10,7 @@ Hoy en día los usuarios del transporte público suelen estar notificados del in
 ### 2-1 Estado del Arte. 
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurren durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiandas de bajo dos parámetros, nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegido por su fuerte vinculación con el transportae, el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y alejamiento a un ciudada volcado exclusivamente en lo visual que le ofrece el teléfono movil o la publicacidad urbana.  
 
+![](MAPADEUSUARIO.jpg)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 
 + 01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
@@ -17,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 + 03 Máquina expendedora de micro-relatos (http://lapiedradesisifo.com/2015/11/14/la-maquina-expendedora-de-relatos-cortos)
 + 04 Cuentos por teléfono (http://maguared.gov.co/project/cuentos-por-telefono-libro-de-gianni-rodari-para-ninos/)
 + 05 Cocacola, pantalla interactiva (https://www.youtube.com/watch?v=ctdYwo55pPA)
-+ 06 Champú, pantalla interactiva. (https://www.youtube.com/watch?v=tdQgsmYKxLM)
++ 06 Apotek, pantalla interactiva. (https://www.youtube.com/watch?v=tdQgsmYKxLM)
 + 07 Best Bus Ever (https://www.youtube.com/watch?v=zpdcUakdQVA)
 + 08 Billetes impresos en libros (https://www.youtube.com/watch?v=1PAkrApvkac) 
 + 09 Kulturbus (https://www.youtube.com/watch?v=W20u8qJWv2M)
