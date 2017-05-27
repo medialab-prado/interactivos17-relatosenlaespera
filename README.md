@@ -10,7 +10,7 @@ Hoy en día los usuarios del transporte público suelen estar notificados del in
 ### 2-1 Estado del Arte. 
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurren durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiandas de bajo dos parámetros, nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegido por su fuerte vinculación con el transportae, el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y alejamiento a un ciudada volcado exclusivamente en lo visual que le ofrece el teléfono movil o la publicacidad urbana.  
 
-![](MAPADEUSUARIO.jpg)
+![](2-1Estado del Arte/MAPADEUSUARIO.jpg)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 
 + 01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
