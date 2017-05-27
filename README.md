@@ -12,17 +12,18 @@ Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al tr
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 
-01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
-02 Expendedora de libros (http://www.lamasbella.es/bellamatic/) 
-03 Máquina expendedora de micro-relatos (http://lapiedradesisifo.com/2015/11/14/la-maquina-expendedora-de-relatos-cortos)
-04 Cuentos por teléfono (http://maguared.gov.co/project/cuentos-por-telefono-libro-de-gianni-rodari-para-ninos/)
-05 Cocacola, pantalla interactiva (https://www.youtube.com/watch?v=ctdYwo55pPA)
-06 Champú, pantalla interactiva. (https://www.youtube.com/watch?v=tdQgsmYKxLM)
-07 Impresión de relatos cortos (https://www.actualidadliteratura.com/short-edition-expendedora-relatos-cortos/)
-08 Billetes impresos en libros (https://www.youtube.com/watch?v=1PAkrApvkac) 
-09 Kulturbus (https://www.youtube.com/watch?v=W20u8qJWv2M)
-10 Viraphone (http://danielperlin.net/#viraphone-with-vito-acconci)
-11 Portadas de libros comprometidas (https://www.youtube.com/watch?v=2LyVVbhvStk)
++01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
++02 Expendedora de libros (http://www.lamasbella.es/bellamatic/) 
++03 Máquina expendedora de micro-relatos (http://lapiedradesisifo.com/2015/11/14/la-maquina-expendedora-de-relatos-cortos)
++04 Cuentos por teléfono (http://maguared.gov.co/project/cuentos-por-telefono-libro-de-gianni-rodari-para-ninos/)
++05 Cocacola, pantalla interactiva (https://www.youtube.com/watch?v=ctdYwo55pPA)
++06 Champú, pantalla interactiva. (https://www.youtube.com/watch?v=tdQgsmYKxLM)
++07 Best Bus Ever (https://www.youtube.com/watch?v=zpdcUakdQVA)
++08 Billetes impresos en libros (https://www.youtube.com/watch?v=1PAkrApvkac) 
++09 Kulturbus (https://www.youtube.com/watch?v=W20u8qJWv2M)
++10 Viraphone (http://danielperlin.net/#viraphone-with-vito-acconci)
++11 Portadas de libros comprometidas (https://www.youtube.com/watch?v=2LyVVbhvStk)
++12 Photoshop en la pantalla (https://www.youtube.com/watch?v=jpRmQo1_4Es) 
 
 ### 2-2 Caso a estudiar. 
 De los modos de transporte donde se lleva a cabo la espera, autobus o metro, se decide estudiar el primero frente al segundo, por tener este menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobus, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en estos suelen ser más genéricos. 
