@@ -11,7 +11,18 @@ Hoy en día los usuarios del transporte público suelen estar notificados del in
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurren durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiandas de bajo dos parámetros, nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegido por su fuerte vinculación con el transportae, el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y alejamiento a un ciudada volcado exclusivamente en lo visual que le ofrece el teléfono movil o la publicacidad urbana.  
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXimagen del mapa XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxreferencias usadasXXXXXXXXXXXXXXXXXx
+
+01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
+02 Expendedora de libros (http://www.lamasbella.es/bellamatic/) 
+03 Máquina expendedora de micro-relatos (http://lapiedradesisifo.com/2015/11/14/la-maquina-expendedora-de-relatos-cortos)
+04 Cuentos por teléfono (http://maguared.gov.co/project/cuentos-por-telefono-libro-de-gianni-rodari-para-ninos/)
+05 Cocacola, pantalla interactiva (https://www.youtube.com/watch?v=ctdYwo55pPA)
+06 Champú, pantalla interactiva. (https://www.youtube.com/watch?v=tdQgsmYKxLM)
+07 Impresión de relatos cortos (https://www.actualidadliteratura.com/short-edition-expendedora-relatos-cortos/)
+08 Billetes impresos en libros (https://www.youtube.com/watch?v=1PAkrApvkac) 
+09 Kulturbus (https://www.youtube.com/watch?v=W20u8qJWv2M)
+10 Viraphone (http://danielperlin.net/#viraphone-with-vito-acconci)
+11 Portadas de libros comprometidas (https://www.youtube.com/watch?v=2LyVVbhvStk)
 
 ### 2-2 Caso a estudiar. 
 De los modos de transporte donde se lleva a cabo la espera, autobus o metro, se decide estudiar el primero frente al segundo, por tener este menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobus, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en estos suelen ser más genéricos. 
@@ -23,6 +34,7 @@ De todas las paradas que tiene la línea 6, se ha elegido la que está en la pla
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxximagen de la paradaxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos basadas en la observación.
+
 Estos son los datos recogidos: 
 Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (movil/libro/bolso/conversación), si está sentado o no lo está. 
 
@@ -40,7 +52,7 @@ A través de redes de contacto se ha localizado a escritores a los que se les ha
 Así mismo, gracias a la colaboración de dos actores, los textos han sido interpretados para que el contenido tuviera más matices. 
 
 ### 4.Tecnología 
-Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera al lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se vio factible por la deslocalización al lugar y el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
+Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se ha visto factible por la deslocalización al lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
 
 Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispotivio que con apariencia de teléfono permitiera narrar las historias. Junto a el una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.  
 
@@ -51,7 +63,8 @@ El producto final ha necesitado de:
 + 4 conexiones
 
 ### 5.Experiencia del usuario.  
-
+Interface*
+Voz*
 
 
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
