@@ -47,9 +47,9 @@ Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus y en 
 El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
 
 ### 3 Desarrollo de los relatos. 
-A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir. La claridad de relato, la simplicidad y el fin de poder ampliar la lectura de la ciudad inmediata son una de las bases comunes establecidas. Se adjunta el mail de invitación. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que puedes servir para construir los relatos. 
+A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir. La claridad de relato, la simplicidad y sobretodo el objetivo de que los relatos sirvan para ampliar la lectura de la ciudad inmediata. Los relatos sirven para construir y para saber más de la ciudad que envuelve a la parada. Se adjunta el mail de invitación que se envio a los autores. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que tienen el objetivo de ayudar a construir los relatos. 
 
-Así mismo, gracias a la colaboración de dos actores, los textos han sido interpretados para que el contenido tuviera más matices. 
+Así mismo, gracias a la colaboración de actores, los textos han sido interpretados para que el contenido tuviera más matices. 
 
 Estas son las historias elegidas junto a los relatos producidos. 
 Título / Autor / Interprete / Duranción
