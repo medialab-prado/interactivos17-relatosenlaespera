@@ -91,11 +91,8 @@ El material usado para el dispositivo principal es madera DM cortada a laser, de
 
 El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala. 
 
-Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser DraftSight-3DS. Se adjuntan 
-
-
-Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
-(Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
+Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser DraftSight-3DS. Se adjuntan en la carpeta correspondiente. 
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/6-Dise-o%20de%20producto/atlas.jpg)
 
 # Promotores y colaboradores: 
 ### Equipo: 
@@ -135,15 +132,6 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
-# Recursos: 
-### Repositorios del proyecto:
-+ [Link a las fotos](http://www.flickrPorEjemplo.com)
-+ [Link a las videos](http://www.lasalsaeslomas.com)
-+ [Link a los planos](http://www.atopedecarto.com)
-+ [Link al blog](http://www.mibloglopeta.com)
-### Bibliografía, otros repositorios y links: 
-+ http://openframeworks.cc/
-+ https://libcinder.org/
 
 # Diario del proceso
 ### Semana 1
