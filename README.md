@@ -91,8 +91,7 @@ El material usado para el dispositivo principal es madera DM cortada a laser, de
 
 El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala. 
 
-Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser
-
+Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser DraftSight-3DS. Se adjuntan 
 
 
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
