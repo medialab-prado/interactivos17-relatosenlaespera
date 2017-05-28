@@ -1,9 +1,10 @@
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
-
 ![](LOGOFINAL.jpg)
+
 ### 1-Idea
 Hoy en día los usuarios del transporte público suelen estar notificados del intervalo de espera. Un tiempo que hasta ahora está ocupado principalmente por el teléfono movil y la publicidad de las paradas. El proyecto aprovecha ese tiempo de una forma alternativa, involucra al viajero en una experiencia extraña pero enriquecedora que sirve para ampliar la lectura de la ciudad que le envuelve. La audición de un relato que dura el tiempo de espera previsto se convierte en el detonante para viajar con la imaginación sin moverse de la parada. 
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/1-idea/Relatos-de-espera_low.jpg)
 
 ### 2-Implementación
 
