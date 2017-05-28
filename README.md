@@ -34,7 +34,7 @@ De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. 
 
 De todas las paradas que tiene la línea 6, se ha elegido la que está en la plaza Tirso de Molina. Una parada que está en una plaza con bastane vida, cerca de centro Medialab Prado, y que tiene árboles cercanos que dan sombra puntualmente a la parada. Algo que ayuda al prototipo pues no hay reflejos en la pantalla. 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxximagen de la paradaxxxxxxxxxxxxxxxxxxxxxxxxxx
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/prueba.jpg)
 
 Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuales son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
 Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (movil/libro/bolso/conversación), si está sentado o no lo está. 
@@ -135,9 +135,9 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser 
 
 # Diario del proceso
 ### Semana 1
-Vermut de grifo 
+Durante la primera semana, el cuestionamiento y la viabilidad del prototipo ha tomado el máximo protagonismo. Las mentorias han cuestionado y no han invitado a concentrarse en las historias para que el dispositivo sea lo más sencillo posible. 
 ### Semana 2
-Bocata de calamares con pacharán de Zarautz
+El desarrollo de las historias ha sido lo más importante, la busqueda y la localización de escritores y actores. El desarrollo del dispotivo básico, a pesar de la sencilles, ha necesitamo más tiempo del esperado. 
 ### Semana 3
-Rave de compilación
+Compilación de la información recogida, testeo del producto y planteamiento de la exposición. 
 
