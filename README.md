@@ -84,10 +84,15 @@ En el diseño del interface, para una mayor credibilidad, se ha hecho uso del co
 Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuanto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambiguedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.  
 
 ### 6.Diseño de producto 
-El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia y el cuelgue del mango del teléfono. Un solo elemento que está colgado a través de unas cinchas a la altura de una persona sentada. 
+El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia, un arduino, una batería y el cuelgue del mango del teléfono. Un solo elemento que actua como cabina telefónica, colgado a través de unas cinchas a la altura de una persona sentada. 
 Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña bisera que se integra en el diseño final. 
 
-El material usado para el dispositivo principal es madera DM cortada a laser. El disño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.  
+El material usado para el dispositivo principal es madera DM cortada a laser, de 5 mm de espesor. El diseño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.  
+
+El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala. 
+
+Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser
+
 
 
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
