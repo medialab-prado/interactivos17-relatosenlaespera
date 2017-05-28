@@ -42,7 +42,7 @@ Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano
 Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus y en redes sociales, para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas.
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen%20de%20datos%20observados%20(1).jpg)
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgráfica del cuestionario xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen-Sobre-el-tiempo-de-espera-(6).jpg) 
 
 El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
 
