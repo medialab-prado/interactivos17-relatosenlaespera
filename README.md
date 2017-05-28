@@ -64,6 +64,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx sonidos de los relatos xxxxxxxxxxxxxxxxx
 Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se ha visto factible por la deslocalización al lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
 
 Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispotivio que con apariencia de teléfono permitiera narrar las historias. Junto a el una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.  
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
 
 El producto final ha necesitado de: 
 + 1 tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
