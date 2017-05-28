@@ -71,17 +71,23 @@ El producto final ha necesitado de:
 + 2 sensor de distancia
 + 3 arduino
 + 4 conexiones
++ 5 batería
+
+Conexiones: 
 
 ### 5.Experiencia de usuario
-Dado el diseño del prototipo, la experincia de usuario se ha basado en dos puntos importantes. En el diseño de un interface y en la primera experiencia auditiva que recibe el usuario. 
+Dado el diseño del prototipo, la experincia de usuario se ha basado en dos puntos importantes. En el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario. 
 
-Para el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo tambien se diseñan interfaces simples con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
+En el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo tambien se ha diseñado un entorno simple y sobrio, con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/5-Experiencia%20de%20usuario/Interface.jpg)
 
-La primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Loe, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuanto tiempo vas a esperar"
+Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuanto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambiguedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.  
 
 ### 6.Diseño de producto 
+El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia y el cuelgue del mango del teléfono. Un solo elemento que está colgado a través de unas cinchas a la altura de una persona sentada. 
+Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña bisera que se integra en el diseño final. 
 
+El material usado para el dispositivo principal es madera DM cortada a laser. El disño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.  
 
 
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
@@ -99,8 +105,19 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 + Inmanulada Marruecos Payán (www.behance.net/inmarru)
 + Marta Felipe Soria 
 ### Autores e Interpretadores de los textos
-+ Manuel de la Cruz
-+ Gonzalo Pendolema 
++ Manuel de la Cruz (interprete)
++ Gonzalo Pendolema (interprete)
++ Raquel Sánchez (interprete)
++ Monica Montoro (interprete)
++ Marta Felipe Soria (autora e interprete)
++ Elena Peña Parrilla (interprete)
++ Ángel Muñoz Jimenez (autor)
++ Bernardo Gómez (autor e interprete)
++ Esther Iorfida (autor)
++ Fran Carrillo (autor)
++ Julia Livaditi (autor)
++ Osvaldo Michelón (autor e interprete)
++ Paloma Díez (autor)
 
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
