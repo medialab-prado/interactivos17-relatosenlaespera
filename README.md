@@ -39,9 +39,10 @@ De todas las paradas que tiene la línea 6, se ha elegido la que está en la pla
 Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuales son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
 Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (movil/libro/bolso/conversación), si está sentado o no lo está. 
 
-Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus y en redes sociales, para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas.
-
+Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus que ha permitido reconocer el perfil de usuario del la parada, mujer, principalmente sola y de edad avanzada. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen%20de%20datos%20observados%20(1).jpg)
+
+A parte de esta recogida de datos hemos llevado a cabo una encuesta a través de las redes sociales para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas. En esta ocasión la distribución de edad es mucho más repartida y las actividades que se realizan en general son más variadas. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen-Sobre-el-tiempo-de-espera-(6).jpg) 
 
 El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
@@ -50,6 +51,7 @@ El resultado de estos documentos nos informa que hay un usuario en las paradas p
 A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir. La claridad de relato, la simplicidad y sobretodo el objetivo de que los relatos sirvan para ampliar la lectura de la ciudad inmediata. Los relatos sirven para construir y para saber más de la ciudad que envuelve a la parada. Se adjunta el mail de invitación que se envio a los autores. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que tienen el objetivo de ayudar a construir los relatos. 
 
 Así mismo, gracias a la colaboración de actores, los textos han sido interpretados para que el contenido tuviera más matices. 
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Interpretes.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
 Título / Autor / Interprete / Duranción
