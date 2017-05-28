@@ -72,8 +72,11 @@ El producto final ha necesitado de:
 + 3 arduino
 + 4 conexiones
 
-### 5.Experiencia del usuario
-Dado el diseño del prototipo se ha basado en dos frentes. 
+### 5.Experiencia de usuario
+Dado el diseño del prototipo, la experincia de usuario se ha basado en dos frentes. En el diseño de un interface y en la primera experiencia auditiva que recibe el usuario. 
+
+Para el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo tambien se diseñan interfaces simples con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
+
 Interface*
 Voz de introducción*
 
@@ -117,6 +120,7 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Bibliografía, otros repositorios y links: 
 + http://openframeworks.cc/
 + https://libcinder.org/
+
 # Diario del proceso
 ### Semana 1
 Vermut de grifo 
