@@ -34,7 +34,7 @@ De todas las paradas que tiene la línea 6, se ha elegido la que está en la pla
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxximagen de la paradaxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación como de forma cualitativa. Esta segunda ha permitido conocer las características de los usuarios habituales de dicha parada, que se vé, cucuales son sus hábitos, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
+Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuales son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
 Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (movil/libro/bolso/conversación), si está sentado o no lo está. 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgráfica de los datosxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -46,11 +46,17 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxgráfica del cuestionario xxxxxxxxxxxxxxxxxxxx
 El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
 
 ### 3 Desarrollo de los relatos. 
-A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de instrucciones. Se adjunta el mail de invitación. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que puedes servir para construir los relatos. 
+A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir. La claridad de relato, la simplicidad y el fin de poder ampliar la lectura de la ciudad inmediata son una de las bases comunes establecidas. Se adjunta el mail de invitación. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que puedes servir para construir los relatos. 
 
 Así mismo, gracias a la colaboración de dos actores, los textos han sido interpretados para que el contenido tuviera más matices. 
 
-//////////////sonidos de los relatos //////
+Estas son las historias elegidas junto a los relatos producidos. 
+Título / Autor / Interprete / Duranción
++ 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López / 2´22
++ 2 Besos en la parada / Paloma Diez Temprano	/ Manuel Cruz López /	2´31
++ 3 Hofer / Marta Felipe Soria	/ Manuel Cruz López /	2´29
++ 4 Tarde de Domingo / Paloma Diez Temprano / Gonzalo Pendolema /
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx sonidos de los relatos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 4.Tecnología 
 Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se ha visto factible por la deslocalización al lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
@@ -63,7 +69,8 @@ El producto final ha necesitado de:
 + 3 arduino
 + 4 conexiones
 
-### 5.Experiencia del usuario.  
+### 5.Experiencia del usuario
+Dado el diseño del prototipo se ha basado en dos frentes. 
 Interface*
 Voz de introducción*
 
