@@ -73,12 +73,15 @@ El producto final ha necesitado de:
 + 4 conexiones
 
 ### 5.Experiencia de usuario
-Dado el diseño del prototipo, la experincia de usuario se ha basado en dos frentes. En el diseño de un interface y en la primera experiencia auditiva que recibe el usuario. 
+Dado el diseño del prototipo, la experincia de usuario se ha basado en dos puntos importantes. En el diseño de un interface y en la primera experiencia auditiva que recibe el usuario. 
 
 Para el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo tambien se diseñan interfaces simples con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/5-Experiencia%20de%20usuario/Interface.jpg)
 
-Voz de introducción*
+La primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Loe, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuanto tiempo vas a esperar"
+
+### 6.Diseño de producto 
+
 
 
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
