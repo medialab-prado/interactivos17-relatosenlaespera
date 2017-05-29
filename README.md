@@ -57,10 +57,10 @@ Estas son las historias elegidas junto a los relatos producidos.
 Título / Autor / Interprete / Duranción:
 
 + 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Se%20Busca%20Poeta.mp3)
-+ 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López
-+ 3 Chofer /	Marta Felipe Soria /	Manuel Cruz López
-+ 4 Tarde de Domingo /	Paloma Diez Temprano /	Gonzalo Pendolema
-+ 5 Un, dos, tres, cuatro vamos a divertirnos un rato /	Fran Carrillo /	Raquel Sánchez
++ 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Besos%20en%20la%20Parada.mp3)
++ 3 Chofer /	Marta Felipe Soria /	Manuel Cruz López ![Audio](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/Chofer.mp3)
++ 4 Tarde de Domingo /	Paloma Diez Temprano /	Gonzalo Pendolema ![Audio](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/Tarde%20de%20domingo.mp3)
++ 5 Un, dos, tres, cuatro vamos a divertirnos un rato /	Fran Carrillo /	Raquel Sánchez ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Un%20dos%20tres%20cuatro%20vamos%20a%20divertirnos%20un%20rato%20(9.17).mp3)
 + 6 La muerte y la doncella /	Bernardo Gómez /	Mónica Montoro
 + 7 El flautista /	Julia Livaditi /	Mónica Montoro
 + 8 Chocolate con churros /	Marta Felipe Soria /	Marta Felipe Soria
