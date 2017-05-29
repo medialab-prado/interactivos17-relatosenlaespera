@@ -77,7 +77,7 @@ Así mismo, gracias a la colaboración de actores, los textos han sido interpret
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Interpretes.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
-Título / Autor / Interprete / Duranción:
+Título / Autor / Intérprete / Duranción:
 
 + 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Se%20Busca%20Poeta.mp3)
 + 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Besos%20en%20la%20Parada.mp3)
@@ -94,9 +94,6 @@ Título / Autor / Interprete / Duranción:
 + 13 Bolsa para la compra /	Isabel Martín Ruiz / Isabel Martín Ruiz, Damiana Ruiz 
 + 14 Dos minutos /	MaxCooper /	Monica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Dos%20Minutos.mp3)
 + 15 Un fantasma en Zingarella /	Osvaldo Michelón / Osvaldo Michelón
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx sonidos de los relatos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## 4.Tecnología 
 Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no ha sido factible por la deslocalización del lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más óptima: una vibración del móvil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es excesivamente complejo.
