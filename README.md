@@ -56,7 +56,7 @@ Así mismo, gracias a la colaboración de actores, los textos han sido interpret
 Estas son las historias elegidas junto a los relatos producidos. 
 Título / Autor / Interprete / Duranción:
 
-+ 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López
++ 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López <audio src="audio.mp3" controls preload></audio>
 + 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López
 + 3 Chofer /	Marta Felipe Soria /	Manuel Cruz López
 + 4 Tarde de Domingo /	Paloma Diez Temprano /	Gonzalo Pendolema
