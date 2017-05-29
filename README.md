@@ -61,9 +61,9 @@ Título / Autor / Interprete / Duranción:
 + 3 Chofer /	Marta Felipe Soria /	Manuel Cruz López ![Audio](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/Chofer.mp3)
 + 4 Tarde de Domingo /	Paloma Diez Temprano /	Gonzalo Pendolema ![Audio](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/Tarde%20de%20domingo.mp3)
 + 5 Un, dos, tres, cuatro vamos a divertirnos un rato /	Fran Carrillo /	Raquel Sánchez ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Un%20dos%20tres%20cuatro%20vamos%20a%20divertirnos%20un%20rato%20(9.17).mp3)
-+ 6 La muerte y la doncella /	Bernardo Gómez /	Mónica Montoro
-+ 7 El flautista /	Julia Livaditi /	Mónica Montoro
-+ 8 Chocolate con churros /	Marta Felipe Soria /	Marta Felipe Soria
++ 6 La muerte y la doncella /	Bernardo Gómez /	Mónica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/La%20muerte%20y%20la%20doncella.mp3)
++ 7 El flautista /	Julia Livaditi /	Mónica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/El%20flautista.mp3)
++ 8 Chocolate con churros /	Marta Felipe Soria /	Marta Felipe Soria ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Chocololate%20con%20churros.mp3)
 + 9 El tapicero /	Marta Felipe Soria /	Manuel Cruz López (hombre), Elena Peña Parrilla (mujer), Marta Felipe Soria (tapicero)![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/El%20tapicero.mp3)
 + 10 Ocupación para desocupados /	Ángel Muñoz Jiménez,	Manuel Cruz López
 + 11 Como no bailar salsa /	Katerina Psegiannaki /	Monica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Como%20no%20bailar%20salsa.mp3)
