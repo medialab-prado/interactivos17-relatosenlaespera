@@ -27,7 +27,7 @@ Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al tr
 + 11 Portadas de libros comprometidas (https://www.youtube.com/watch?v=2LyVVbhvStk)
 + 12 Photoshop en la pantalla (https://www.youtube.com/watch?v=jpRmQo1_4Es) 
 
-## 2-2 Caso a estudiar. 
+### 2-2 Caso a estudiar. 
 De los modos de transporte donde se lleva a cabo la espera, autobús, tren o metro, se decide estudiar el autobús por tener menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobús, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en las marquesinas suelen ser más genéricos.
 
 De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
