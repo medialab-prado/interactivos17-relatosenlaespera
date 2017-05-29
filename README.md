@@ -3,14 +3,14 @@ Antes de empezar a movernos con el transporte público vivimos en la ‘espera�
 ![](LOGOFINAL.jpg)
 
 ### 1-Idea
-Hoy en día los usuarios del transporte público suelen estar notificados del intervalo de espera. Un tiempo que hasta ahora está ocupado principalmente por el teléfono movil y la publicidad de las paradas. El proyecto aprovecha ese tiempo de una forma alternativa, involucra al viajero en una experiencia extraña pero enriquecedora que sirve para ampliar la lectura de la ciudad que le envuelve. La audición de un relato que dura el tiempo de espera previsto se convierte en el detonante para viajar con la imaginación sin moverse de la parada.
+Hoy en día los usuarios del transporte público suelen recibir información del tiempo de espera. Un tiempo que hasta ahora está ocupado, principalmente, por el teléfono móvil y la publicidad de las paradas. El proyecto aprovecha ese tiempo de una forma alternativa, involucra al viajero en una experiencia extraña pero enriquecedora que sirve para contextualizar la ciudad que le envuelve. La audición de un relato que dura el tiempo de espera previsto se convierte en el detonante para viajar con la imaginación sin moverse de la parada.
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/1-idea/Relatos-de-espera_low.jpg)
 
 ### 2-Implementación
 
 ### 2-1 Estado del Arte. 
-Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurren durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiandas de bajo dos parámetros, nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegido por su fuerte vinculación con el transportae, el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y alejamiento a un ciudada volcado exclusivamente en lo visual que le ofrece el teléfono movil o la publicacidad urbana.  
+Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos que unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurre durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiadas bajo dos parámetros: nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegidos por su fuerte vinculación con el transporte; el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y por favorecer el alejamiento del teléfono móvil o de la publicidad de una ciudadanía volcada exclusivamente en lo visual.  
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-1Estado%20del%20Arte/MAPADEUSUARIO.jpg?raw=true)
 
@@ -28,29 +28,30 @@ Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al tr
 + 12 Photoshop en la pantalla (https://www.youtube.com/watch?v=jpRmQo1_4Es) 
 
 ### 2-2 Caso a estudiar. 
-De los modos de transporte donde se lleva a cabo la espera, autobus o metro, se decide estudiar el primero frente al segundo, por tener este menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobus, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en estos suelen ser más genéricos. 
+De los modos de transporte donde se lleva a cabo la espera, autobús, tren o metro, se decide estudiar el autobús por tener menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobús, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en las marquesinas suelen ser más genéricos.
 
-De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a usuario a centros productivos de la ciudad, sino es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
+De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
 
-De todas las paradas que tiene la línea 6, se ha elegido la que está en la plaza Tirso de Molina. Una parada que está en una plaza con bastane vida, cerca de centro Medialab Prado, y que tiene árboles cercanos que dan sombra puntualmente a la parada. Algo que ayuda al prototipo pues no hay reflejos en la pantalla. 
+De todas las paradas que tiene la línea 6, se ha elegido la que está en la plaza Tirso de Molina. Una parada que está en una plaza con bastante vida, cerca de centro Medialab Prado, y que tiene árboles cercanos que dan sombra a la parada. Algo que ayuda al prototipo pues no hay reflejos en la pantalla.
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/prueba.jpg)
 
-Para conocer lo hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuales son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
-Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (movil/libro/bolso/conversación), si está sentado o no lo está. 
+Para conocer los hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación, como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuáles son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
+Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (móvil/libro/bolso/conversación), si está sentado o no lo está.
 
-Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobus que ha permitido reconocer el perfil de usuario del la parada, mujer, principalmente sola y de edad avanzada. 
+Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobús que ha permitido reconocer el perfil  del usuario mayoritario de dicha parada: mujer, principalmente sola y de edad avanzada. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen%20de%20datos%20observados%20(1).jpg)
 
 A parte de esta recogida de datos hemos llevado a cabo una encuesta a través de las redes sociales para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas. En esta ocasión la distribución de edad es mucho más repartida y las actividades que se realizan en general son más variadas. 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen-Sobre-el-tiempo-de-espera-(6).jpg) 
 
-El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interes de que suceda una actividad en las paradas, sin embargo el alto interés de que sea un relato, que permita saber más sobre la ciudad inmediata en torno a ella. 
+El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interés de que suceda una actividad en las paradas, sin embargo el alto interés ante que la actividad sea un relato escuchado que permita saber más sobre la ciudad inmediata en torno a ella.
 
 ### 3 Desarrollo de los relatos. 
-A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir. La claridad de relato, la simplicidad y sobretodo el objetivo de que los relatos sirvan para ampliar la lectura de la ciudad inmediata. Los relatos sirven para construir y para saber más de la ciudad que envuelve a la parada. Se adjunta el mail de invitación que se envio a los autores. En el se especifican la importancia del tiempo del relato, imagenes que muestran lo que se ve desde la parada, y un listín de detonantes generales que tienen el objetivo de ayudar a construir los relatos. 
+A través de redes de contacto se ha localizado a escritores a los que se les ha dado una serie de recomendaciones a seguir: la claridad en la redacción del relato, la simplicidad y sobretodo el objetivo de que las historias sirvan para ampliar la lectura de la ciudad inmediata. Los relatos sirven para construir y para saber más de la ciudad que envuelve a la parada. Se adjunta el mail de invitación que se envió a los autores. En él se especifican la importancia del tiempo del relato, imágenes de lo que se ve desde la parada y una lista de detonantes generales que tienen el objetivo de ayudar a inventar los relatos.
 
-Así mismo, gracias a la colaboración de actores, los textos han sido interpretados para que el contenido tuviera más matices. 
+Así mismo, gracias a la colaboración de actores, los textos han sido interpretados para que el contenido tuviera más incidencia en el oyente y realismo.
+
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Interpretes.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
@@ -76,9 +77,9 @@ Título / Autor / Interprete / Duranción:
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx sonidos de los relatos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 4.Tecnología 
-Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar de donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no se ha visto factible por la deslocalización al lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más optima, una vibración del movil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es exesivamente complejo. 
+Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde una App hasta un teléfono analógico que pudiera servir para escuchar los relatos. Dada la vinculación de la espera con el lugar donde se desarrolla, la tecnología del prototipo tendría que dar salida a este requisito. Por lo tanto la solución de una App no ha sido factible por la deslocalización del lugar y por el necesario consumo de datos que supondría trabajar con ella. A priori el uso de la tecnología "nearby" parecía la más óptima: una vibración del móvil personal cuando el viajero se acerca a la parada sería una buena solución para llevarlo a cabo, salgo que para el desarrollo del prototipo es excesivamente complejo.
 
-Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispotivio que con apariencia de teléfono permitiera narrar las historias. Junto a el una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.  
+Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispositivo que con apariencia de teléfono permitiera narrar las historias y junto a él una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
 
 El producto final ha necesitado de: 
@@ -91,22 +92,23 @@ El producto final ha necesitado de:
 Conexiones: 
 
 ### 5.Experiencia de usuario
-Dado el diseño del prototipo, la experincia de usuario se ha basado en dos puntos importantes. En el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario. 
+Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
 
-En el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo tambien se ha diseñado un entorno simple y sobrio, con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
+En el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo también se ha diseñado un entorno simple y sobrio, con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
+
+Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuánto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambigüedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.
+
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/5-Experiencia%20de%20usuario/Interface.jpg)
 
-Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuanto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambiguedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.  
-
 ### 6.Diseño de producto 
-El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia, un arduino, una batería y el cuelgue del mango del teléfono. Un solo elemento que actua como cabina telefónica, colgado a través de unas cinchas a la altura de una persona sentada. 
-Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña bisera que se integra en el diseño final. 
+El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia, un arduino, una batería y el cuelgue del mango del teléfono. Un solo elemento que actúa como cabina telefónica, colgado a través de unas cinchas a la altura de una persona sentada. Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña visera que se integra en el diseño final.
 
-El material usado para el dispositivo principal es madera DM cortada a laser, de 5 mm de espesor. El diseño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.  
+El material usado para el dispositivo principal es madera DM cortada a laser, de 5 mm de espesor. El diseño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.
 
-El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala. 
+El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala.
 
-Para el modelado se ha utilizado el sowftware Solidwords, y para el corte laser DraftSight-3DS. Se adjuntan en la carpeta correspondiente. 
+Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser DraftSight-3DS. Se adjuntan en la carpeta correspondiente. 
+
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/6-Dise-o%20de%20producto/atlas.jpg)
 
 # Promotores y colaboradores: 
