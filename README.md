@@ -54,11 +54,25 @@ Así mismo, gracias a la colaboración de actores, los textos han sido interpret
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Interpretes.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
-Título / Autor / Interprete / Duranción
-+ 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López / 2´22
-+ 2 Besos en la parada / Paloma Diez Temprano	/ Manuel Cruz López /	2´31
-+ 3 Hofer / Marta Felipe Soria	/ Manuel Cruz López /	2´29
-+ 4 Tarde de Domingo / Paloma Diez Temprano / Gonzalo Pendolema /
+Título / Autor / Interprete / Duranción:
+
++ 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López
++ 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López
++ 3 Chofer /	Marta Felipe Soria /	Manuel Cruz López
++ 4 Tarde de Domingo /	Paloma Diez Temprano /	Gonzalo Pendolema
++ 5 Un, dos, tres, cuatro vamos a divertirnos un rato /	Fran Carrillo /	Raquel Sánchez
++ 6 La muerte y la doncella /	Bernardo Gómez /	Mónica Montoro
++ 7 El flautista /	Julia Livaditi /	Mónica Montoro
++ 8 Chocolate con churros /	Marta Felipe Soria /	Marta Felipe Soria
++ 9 El tapicero /	Marta Felipe Soria /	Manuel Cruz López (hombre), Elena Peña Parrilla (mujer), Marta Felipe Soria (tapicero)
++ 10 Ocupación para desocupados /	Ángel Muñoz Jiménez,	Manuel Cruz López
++ 11 Como no bailar salsa /	Katerina Psegiannaki /	Monica Montoro
++ 12 En un minuto /	Bernardo Gómez
++ 13 Bolsa para la compra /	Isabel Martín Ruiz / Isabel Martín Ruiz, Damiana Ruiz
++ 14 Dos minutos /	MaxCooper /	Monica Montoro
++ 15 Un fantasma en Zingarella /	Osvaldo Michelón / Osvaldo Michelón
+
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx sonidos de los relatos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 4.Tecnología 
