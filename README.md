@@ -1,4 +1,3 @@
-
     - [Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
        - [1-Idea](#1-idea)
        - [2-Implementación](#2-implementación)
