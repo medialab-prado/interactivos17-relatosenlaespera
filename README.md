@@ -65,10 +65,10 @@ Título / Autor / Interprete / Duranción:
 + 7 El flautista /	Julia Livaditi /	Mónica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/El%20flautista.mp3)
 + 8 Chocolate con churros /	Marta Felipe Soria /	Marta Felipe Soria ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Chocololate%20con%20churros.mp3)
 + 9 El tapicero /	Marta Felipe Soria /	Manuel Cruz López (hombre), Elena Peña Parrilla (mujer), Marta Felipe Soria (tapicero)![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/El%20tapicero.mp3)
-+ 10 Ocupación para desocupados /	Ángel Muñoz Jiménez,	Manuel Cruz López
++ 10 Ocupación para desocupados /	Ángel Muñoz Jiménez,	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Ocupaci%C3%B3n%20para%20desocupados.mp3)
 + 11 Como no bailar salsa /	Katerina Psegiannaki /	Monica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Como%20no%20bailar%20salsa.mp3)
-+ 12 En un minuto /	Bernardo Gómez
-+ 13 Bolsa para la compra /	Isabel Martín Ruiz / Isabel Martín Ruiz, Damiana Ruiz
++ 12 En un minuto /	Bernardo Gómez ![Audio] (https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/En%20un%20minuto.mp3)
++ 13 Bolsa para la compra /	Isabel Martín Ruiz / Isabel Martín Ruiz, Damiana Ruiz 
 + 14 Dos minutos /	MaxCooper /	Monica Montoro ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Dos%20Minutos.mp3)
 + 15 Un fantasma en Zingarella /	Osvaldo Michelón / Osvaldo Michelón
 
