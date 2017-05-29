@@ -1,3 +1,26 @@
+
+    - [Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
+       - [1-Idea](#1-idea)
+       - [2-Implementación](#2-implementación)
+         - [2-1 Estado del Arte.](#2-1-estado-del-arte.)
+         - [2-2 Caso a estudiar.](#2-2-caso-a-estudiar.)
+       - [3 Desarrollo de los relatos.](#3-desarrollo-de-los-relatos.)
+       - [4.Tecnología](#4.tecnología)
+       - [5.Experiencia de usuario](#5.experiencia-de-usuario)
+       - [6.Diseño de producto](#6.diseño-de-producto)
+    - [Promotores y colaboradores:](#promotores-y-colaboradores:)
+         - [Equipo:](#equipo:)
+         - [Colaboradores](#colaboradores)
+         - [Autores e Interpretadores de los textos](#autores-e-interpretadores-de-los-textos)
+    - [Instrucciones](#instrucciones)
+         - [Instrucciones de montaje y desmontaje](#instrucciones-de-montaje-y-desmontaje)
+         - [Instrucciones de funcionamiento](#instrucciones-de-funcionamiento)
+         - [Instrucciones de mantenimiento](#instrucciones-de-mantenimiento)
+    - [Diario del proceso](#diario-del-proceso)
+         - [Semana 1](#semana-1)
+         - [Semana 2](#semana-2)
+         - [Semana 3](#semana-3)
+
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
 ![](LOGOFINAL.jpg)
