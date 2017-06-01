@@ -162,11 +162,15 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Qué material se necesita
 + Cómo se ensambla todo
 + En qué puntos hay que tener cuidado
+1 Cable OTG se deconecta facilmente. 
+2 La tapa frontal hay que abrirla como si fuera una bisagra a su parte izquierda. 
+3 Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet )
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
+Hay que cargar la bateria de la tablet cada cierto tiempo, ya que la entrada USB se ocupa con el cable OTG y no permite cargar al mismo tiempo. Que hacer ? desconectar el OTG y cargar con el cargador que hay a disposicón. 
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
 
