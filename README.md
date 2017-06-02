@@ -158,6 +158,10 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Paloma Díez (autor)
 
 # Instrucciones
+### Instrucciones de Expo
++ Video del proyecto, en la carpeta RELATO ( en el escritorio ). Arranca automatico en ubuntu con el video en fullscreen. 
++ Una Cabina telefónica con un telefono interactivo. 
+
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
 + Cómo se ensambla todo
