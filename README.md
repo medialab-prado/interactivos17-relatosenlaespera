@@ -165,18 +165,26 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
 + Cómo se ensambla todo
+1. Tenemos un powerBank que alimenta el altavoz bluetooh. 
+2. El altavoz bloutooh está adentro del telefono. Abrir la tapa de arriba y conectar el altavoz ( tiene un boton de ON/OFF) manualmente. 
 + En qué puntos hay que tener cuidado
-1 Cable OTG se deconecta facilmente. 
-2 La tapa frontal hay que abrirla como si fuera una bisagra a su parte izquierda. 
-3 Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet )
+1. Cable OTG se deconecta facilmente. 
+2. La tapa frontal hay que abrirla como si fuera una bisagra a su parte izquierda. 
+3. Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet ) manualmente. 
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
+1. Colocarse frente el telefono. Hay un sensor que detecta la presencia si estas mas de 4 segundos al frente. 
+3. Contestar al telefono si llaman, elegir el tiempo de espera, escuchar el relato, colgar. 
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
+Contar un relato. 
+
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
-Hay que cargar la bateria de la tablet cada cierto tiempo, ya que la entrada USB se ocupa con el cable OTG y no permite cargar al mismo tiempo. Que hacer ? desconectar el OTG y cargar con el cargador que hay a disposicón. 
-+ ¿Utiliza materiales desechables? ¿tintas? ¿papel?
+1. Hay que cargar la bateria de la tablet cada cierto tiempo, ya que la entrada USB se ocupa con el cable OTG y no permite cargar al mismo tiempo. Que hacer ? desconectar el OTG y cargar con el cargador que hay a disposicón. 
+2. Encender la tablet si está apagada. -> Tiene un boton de encendido y apagado que se accede por el hueco del telefono. 
+2. Encender el altavoz si está apagado - > Abrir el tele
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+Por ver, tiene varios bugs. 
 
 # Diario del proceso
 ### Semana 1
