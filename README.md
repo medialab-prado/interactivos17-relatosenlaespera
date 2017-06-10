@@ -119,6 +119,7 @@ En el diseño del interface, para una mayor credibilidad, se ha hecho uso del co
 Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuánto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambigüedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/5-Experiencia%20de%20usuario/Interface.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-prototipo-relatosenlaespera.jpg)
 
 ## 6 Diseño de producto 
 El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia, un arduino, una batería y el cuelgue del mango del teléfono. Un solo elemento que actúa como cabina telefónica, colgado a través de unas cinchas a la altura de una persona sentada. Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña visera que se integra en el diseño final.
