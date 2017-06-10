@@ -58,15 +58,17 @@ De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. 
 
 De todas las paradas que tiene la línea 6, se ha elegido la que está en la plaza Tirso de Molina. Una parada que está en una plaza con bastante vida, cerca de centro Medialab Prado, y que tiene árboles cercanos que dan sombra a la parada. Algo que ayuda al prototipo pues no hay reflejos en la pantalla.
 
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/prueba.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-2%20Caso%20a%20estudiar/plaza-tirso-molina-madrid_01.png)
 
 Para conocer los hábitos de los usuarios de dicha parada se ha llevado a cabo una recogida de datos tanto de forma cuantitativa, basadas en la observación, como de forma cualitativa. Esta segunda ha permitido conocer las características habituales de los usuarios de dicha parada, cuáles son sus hábitos, qué ven desde ella, cómo la habitan. Respecto a la recogida de datos de forma cuantitativa estos son los datos recogidos: 
 Hora de llegada/salida, hombre/mujer/otro, solo/acompañado, edad (joven/mediano/mayor), actividad (móvil/libro/bolso/conversación), si está sentado o no lo está.
 
-Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobús que ha permitido reconocer el perfil  del usuario mayoritario de dicha parada: mujer, principalmente sola y de edad avanzada. 
+Así mismo se ha llevado a cabo un cuestionario a pie de parada de autobús que ha permitido reconocer el perfil  del usuario mayoritario de dicha parada: mujer, principalmente sola y de edad avanzada.
+
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen%20de%20datos%20observados%20(1).jpg)
 
 A parte de esta recogida de datos hemos llevado a cabo una encuesta a través de las redes sociales para saber la reacción ante un posible dispositivo que cuente un relato durante las esperas. En esta ocasión la distribución de edad es mucho más repartida y las actividades que se realizan en general son más variadas. 
+
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/Resumen-Sobre-el-tiempo-de-espera-(6).jpg) 
 
 El resultado de estos documentos nos informa que hay un usuario en las paradas principalmente mujer de mediana o avanzada edad que no usa teléfono móvil. Así mismo se destaca en los cuestionarios el escaso interés de que suceda una actividad en las paradas, sin embargo el alto interés ante que la actividad sea un relato escuchado que permita saber más sobre la ciudad inmediata en torno a ella.
