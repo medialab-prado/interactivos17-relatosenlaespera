@@ -54,6 +54,8 @@ De los modos de transporte donde se lleva a cabo la espera, autobús, tren o met
 
 De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-2%20Caso%20a%20estudiar/caso-tranporte-aubobuses-madrid.png)
+
 De todas las paradas que tiene la línea 6, se ha elegido la que está en la plaza Tirso de Molina. Una parada que está en una plaza con bastante vida, cerca de centro Medialab Prado, y que tiene árboles cercanos que dan sombra a la parada. Algo que ayuda al prototipo pues no hay reflejos en la pantalla.
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/2-2%20Caso%20a%20estudiar/prueba.jpg)
