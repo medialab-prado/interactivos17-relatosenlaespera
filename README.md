@@ -110,6 +110,7 @@ El producto final ha necesitado de:
 + 5 batería
 
 Conexiones: 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
 
 ## 5. Experiencia de usuario
 Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
