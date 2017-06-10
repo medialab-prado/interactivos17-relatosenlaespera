@@ -141,7 +141,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
 
 ## 6. Experiencia de usuario
-![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/experiencia-usuario.jpg)
 
 
 
