@@ -138,7 +138,7 @@ El modelo desarrollado no es impermeable, pero sería necesario su planteamiento
 
 Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser DraftSight-3DS. Se adjuntan en la carpeta correspondiente. 
 
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/6-Dise-o%20de%20producto/atlas.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
 
 # Promotores y colaboradores: 
 ### Equipo: 
