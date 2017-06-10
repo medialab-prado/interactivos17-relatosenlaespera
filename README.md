@@ -104,7 +104,7 @@ Se han barajado distintas tecnologías para llevar a cabo el dispositivo. Desde 
 
 Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un dispositivo que con apariencia de teléfono permitiera narrar las historias y junto a él una pantalla con la que interaccionar para especificar el tiempo de espera que el usuario estima que va tardar el transporte.
 
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/sensor.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/desarrollo-tecnologico.jpg)
 
 El producto final ha necesitado de: 
 + 1 tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
