@@ -162,6 +162,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ### Instrucciones de Expo
 + Video del proyecto, en la carpeta RELATO ( en el escritorio ). Arranca automatico en ubuntu con el video en fullscreen. 
 + Una Cabina telefónica con un telefono interactivo. 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/espacio-expositivos-RE-01.png)
 
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
