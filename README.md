@@ -144,7 +144,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/experiencia-usuario.jpg)
 
 ## 7. Testeo con usuarios
-
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/testeo-relatos-usuarios.jpg)
 
 
 # Promotores y colaboradores: 
