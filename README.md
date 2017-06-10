@@ -1,3 +1,14 @@
+- [0. Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
+- [1. Idea](#1-idea)
+- [2. Implementación](#2-implementación)
+- [2.1 Caso-a-estudiar](#2-2-caso-a-estudiar) 
+- [3. Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
+- [4. Tecnología](#4-tecnología)
+- [5. Experiencia de usuario](#5-experiencia-de-usuario)
+- [6. Diseño de producto](#6-diseño-de-producto) 
+- [Promotores y colaboradores](#promotores-y-colaboradores)
+- [Instrucciones](#instrucciones)
+- [Diario del proceso](#diario-del-proceso)
     - [Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
        - [1-Idea](#1-idea)
        - [2-Implementación](#2-implementación)
@@ -23,6 +34,7 @@
 # Interactivos17-Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
 ![](LOGOFINAL.jpg)
+- [Video presentación del proyecto](https://www.youtube.com/watch?v=_y7_L4MCVnM&feature=youtu.be)
 
 ## 1. Idea
 Hoy en día los usuarios del transporte público suelen recibir información del tiempo de espera. Un tiempo que hasta ahora está ocupado, principalmente, por el teléfono móvil y la publicidad de las paradas. El proyecto aprovecha ese tiempo de una forma alternativa, involucra al viajero en una experiencia extraña pero enriquecedora que sirve para contextualizar la ciudad que le envuelve. La audición de un relato que dura el tiempo de espera previsto se convierte en el detonante para viajar con la imaginación sin moverse de la parada.
@@ -52,7 +64,7 @@ Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al tr
 ### 2.2. Caso a estudiar 
 De los modos de transporte donde se lleva a cabo la espera, autobús, tren o metro, se decide estudiar el autobús por tener menos elementos de distracción. Actualmente en Madrid, lugar donde se lleva a cabo el prototipo, todas las paradas de metro disponen de pantallas que indican el tiempo de espera, así como en muchas ocasiones televisiones o anuncios que juegan con la presencia del viajero en la parada. Mientras que en autobús, la presencia de pantallas que indican el tiempo de espera es más escaso y los anuncios en las marquesinas suelen ser más genéricos.
 
-De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. 
+De todas las líneas de autobuses que existen en Madrid, se decide la línea 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad.
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-2%20Caso%20a%20estudiar/caso-tranporte-aubobuses-madrid.png)
 
@@ -81,7 +93,7 @@ Así mismo, gracias a la colaboración de actores, los textos han sido interpret
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/creacion-relatos.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
-Título / Autor / Intérprete / Duranción:
+Título / Autor / Intérprete / Duración:
 
 + 1 Se busca poeta / Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Se%20Busca%20Poeta.mp3)
 + 2 Besos en la parada /	Paloma Diez Temprano /	Manuel Cruz López ![Audio](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Besos%20en%20la%20Parada.mp3)
@@ -107,11 +119,18 @@ Por facilidad de ejecución se decide desarrollar una tecnología mixta. Un disp
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/desarrollo-tecnologico.jpg)
 
 El producto final ha necesitado de: 
-+ 1 tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
-+ 2 sensor de distancia
-+ 3 arduino
-+ 4 conexiones
-+ 5 batería
++ Tableta android de 18 pulgadas, en donde se ha desarrollado un interfaz. 
++ Sensor de distancia. [Sensor de ultrasonido](http://www.micropik.com/PDF/HCSR04.pdf)
++ Arduino Uno
++ Batería
++ Micro switch swap
++ Cable OTG
+
+### 4.1. Lets code
+#### 4.1.1. [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
+#### 4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
+##### Diagrama esquemático
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/relatosEsquematico.png)
 
 Conexiones: 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
@@ -174,12 +193,12 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Paloma Díez (autor)
 
 # Instrucciones
-### Instrucciones de Expo
+### Instrucciones de Expo  ***Mirar***
 + Video del proyecto, en la carpeta RELATO ( en el escritorio ). Arranca automatico en ubuntu con el video en fullscreen. 
 + Una Cabina telefónica con un telefono interactivo. 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/espacio-expositivos-RE-01.png)
 
-### Instrucciones de montaje y desmontaje
+### Instrucciones de montaje y desmontaje  ***Mirar***
 + Qué material se necesita
 1. Cabina de telefono interactiva.
 2. Cascos de audio para el vídeo.
@@ -192,11 +211,29 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 3. Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet ) manualmente. 
 
 ### Instrucciones de funcionamiento
-+ ¿Cómo se enciende? ¿Cómo se apaga?
++ ¿Cómo se enciende? ¿Cómo se apaga? ***Mirar***
 1. Colocarse frente el telefono. Hay un sensor que detecta la presencia si estas mas de 4 segundos al frente. 
 3. Contestar al telefono si llaman, elegir el tiempo de espera, escuchar el relato, colgar. 
+
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
-Contar un relato. 
+Para poder interactuar con el aparato hay que cumplir con las siguientes condiciones con el orden indicado: 
+1.	La Tablet encendida y el altavoz encendido
+2.	El teléfono tiene que estar colgado para que el switch esté cerrado. 
+3.	La App “relatos en la espera” tiene que estar activa.
+4.	Conectar el Arduino en la Tablet. En el mensaje: “Allow the app Relatos en la Espera to acces the USB device” cliquear “Use by default for this USB device” y a continuación decir OK.
+
+Una vez todas las condiciones previas cumplan puede empezar la interacción.
+
+La primera pantalla de la app dice: “tenemos una historia que contarte” e invita el usuario a acercarse. 
+Al acercarse el usuario a los 60 cm o más cerca el sensor ultrasonido hace que se active la siguiente pantalla que dice: “Hola, te estoy llamando” e invita el usuario descolgar el teléfono que en este momento está sonando.
+
+Al descolgar el usuario el teléfono que está sonando aparece directamente otra pantalla que pregunta: “¿Cuánto tiempo crees que vas a esperar?” y da la posibilidad al usuario a escoger un botón desde 1 minuto hasta más de 10 minutos. También se puede contestar “No lo sé”. Por el telefonillo se oye “Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que selecciones cuanto tiempo vas a esperar”.
+
+Al elegir un botón el usuario se pasa a una nueva pantalla que dice “escúchame”. Por el telefonillo se oye un relato que dura aproximadamente el tiempo de la espera que ha seleccionado el usuario. Esta pantalla sigue así durante todo el tiempo que se oye el relato. 
+
+Una vez acabado el relato aparece una pantalla que dice “FIN” e indica los créditos del relato “Titulo, Autor, Locutor”. Después de un corto tiempo sale automáticamente otra pantalla que dice “Hasta Luego” y pide al usuario volver a colgar el teléfono para que otro usuario pueda seguir interactuando con el aparato. 
+
+![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/instrucciones/funcionalidad_low.jpg)
 
 ### Instrucciones de mantenimiento
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
