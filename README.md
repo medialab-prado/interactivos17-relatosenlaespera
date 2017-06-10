@@ -130,6 +130,8 @@ Por otro lado la primera experiencia auditiva se vuelve muy importante para empa
 ## 6. Diseño de producto 
 El diseño del dispositivo se basa en la integración de una tablet de 18", un sensor de distancia, un arduino, una batería y el cuelgue del mango del teléfono. Un solo elemento que actúa como cabina telefónica, colgado a través de unas cinchas a la altura de una persona sentada. Dado que el dispositivo estará en la parada y que en ocasiones el sol puede llegar generar un brillo que dificulte la lectura en la pantalla, el diseño incluye una pequeña visera que se integra en el diseño final.
 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/prototipo-artefacto.jpg)
+
 El material usado para el dispositivo principal es madera DM cortada a laser, de 5 mm de espesor. El diseño del mango telefónico es de madera pero de 3mm de espesor. La madera tanto del manguito como del dispositivo se resuelve con ensambles en L.
 
 El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala.
