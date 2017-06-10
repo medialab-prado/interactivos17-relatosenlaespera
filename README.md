@@ -143,6 +143,8 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ## 6. Experiencia de usuario
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/experiencia-usuario.jpg)
 
+## 7. Testeo con usuarios
+
 
 
 # Promotores y colaboradores: 
