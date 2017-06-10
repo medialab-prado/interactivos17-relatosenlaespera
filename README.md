@@ -116,7 +116,7 @@ El producto final ha necesitado de:
 Conexiones: 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
 
-## 5. Experiencia de usuario
+## 5. Diseño de Interfaz de Usuario en producto digital
 Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-app-relatos.jpg)
@@ -136,9 +136,14 @@ El material usado para el dispositivo principal es madera DM cortada a laser, de
 
 El modelo desarrollado no es impermeable, pero sería necesario su planteamiento en el caso de que se llevara a cabo en otra escala.
 
-Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser DraftSight-3DS. Se adjuntan en la carpeta correspondiente. 
+Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser DraftSight-3DS. Se adjuntan en la carpeta correspondiente.
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
+
+## 6. Experiencia de usuario
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
+
+
 
 # Promotores y colaboradores: 
 ### Equipo: 
