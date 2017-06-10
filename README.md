@@ -119,11 +119,12 @@ Conexiones:
 ## 5. Experiencia de usuario
 Dado el diseño del prototipo, la experiencia de usuario se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-app-relatos.jpg)
+
 En el diseño del interface, para una mayor credibilidad, se ha hecho uso del color oficial de la EMT. Así mismo también se ha diseñado un entorno simple y sobrio, con un tamaño de fuente pensado para un usuario de edad avanzada. La primera pantalla es la más importante, la cual invita al usuario a usar el dispositivo, el pictograma de una persona mayor busca empatizar con el usuario habitual. 
 
 Por otro lado la primera experiencia auditiva se vuelve muy importante para empatizar con el usuario. Por ello se ha trabajado con la frase "Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que me selecciones cuánto tiempo vas a esperar". Se ha elegido el nombre de Leo por la ambigüedad de género, así como una frase natural que intente alejarse de las respuestas automatizadas de los servicios telefónicos habituales.
 
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/5-Experiencia%20de%20usuario/Interface.jpg)
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-prototipo-relatosenlaespera.jpg)
 
 ## 6. Diseño de producto 
