@@ -78,7 +78,7 @@ A través de redes de contacto se ha localizado a escritores a los que se les ha
 
 Así mismo, gracias a la colaboración de actores, los textos han sido interpretados para que el contenido tuviera más incidencia en el oyente y realismo.
 
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/3%20Desarrollo%20de%20los%20relatos/Interpretes.jpg) 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/3%20Desarrollo%20de%20los%20relatos/creacion-relatos.jpg) 
 
 Estas son las historias elegidas junto a los relatos producidos. 
 Título / Autor / Intérprete / Duranción:
