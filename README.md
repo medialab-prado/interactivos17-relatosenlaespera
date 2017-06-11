@@ -6,7 +6,7 @@
 - [4. Tecnología](#4-tecnología)
 - [5. Experiencia de usuario](#5-experiencia-de-usuario)
 - [6. Diseño de producto](#6-diseño-de-producto)
-- [7. Experiencia de usuario] (#7-experiencia de usuario)(https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/README.md#7-experiencia-de-usuario)
+- [7. Experiencia de usuario](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/README.md#7-experiencia-de-usuario)
 - [Promotores y colaboradores](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
 - [Diario del proceso](#diario-del-proceso)
