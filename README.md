@@ -200,38 +200,64 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/tripas-artefacto.jpg)
 
 ### Instrucciones de funcionamiento
-+ ¿Cómo se enciende? ¿Cómo se apaga? ***Mirar***
-1. Colocarse frente el telefono. Hay un sensor que detecta la presencia si estas mas de 4 segundos al frente. 
-3. Contestar al telefono si llaman, elegir el tiempo de espera, escuchar el relato, colgar. 
++ ¿Cómo se enciende? ¿Cómo se apaga?
+Resumen de como debería funcionar el artefacto de las historias:
+1. Colocarse frente el telefono. Hay un sensor que detecta la presencia si estas no más de 3 metros del dispositivo (frente al artefacto). 
+2. Suena llamada y se contestas al telefono, 
+3. Eliges tiempo de espera, escuchas el relato, y cuelgas.
+
+Para que el aparato se mantenga encendido el Tablet tiene que estar cargado. Para cargar el Tablet hay que desenchufar el Arduino que está conectado en el puerto micro USB inferior y conectarlo a un cargador Android. 
+Para que el altavoz que está dentro del teléfono se mantenga encendido tiene que estar conectado a la batería portable que está dentro de la caja.
+
+Para que la batería que está dentro de la caja se mantenga encendida tiene que estar conectada con un cargador Android a la luz. 
+Para apagar y encender el tablet es necesario descolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cuelga el teléfono. Ahí hay un botón largo que es el volumen y otro botón más pequeño que es el encender-apagar. 
+Para apagar y encender la batería portable es necesario descolgar el teléfono y acceder al botón de encendido y apagado, a través del agujero superior de dónde cuelga el teléfono. Previo a esto para poder acceder más fácilmente al botón retirar el USB conectado a la misma batería. Se enciende una luz azul.
+
+Para apagar y encender el altavoz es necesario abrir la puerta superior del teléfono y pulsar el botón posterior. Se puede comprobar que el altavoz está encendido porque puede verse una luz roja (encendido y cargando) o azul (encendido y no cargando).
+
 
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
-Para poder interactuar con el aparato hay que cumplir con las siguientes condiciones con el orden indicado: 
+Para poder interactuar con el aparato hay que cumplir con las siguientes condiciones con el orden indicado. 
+Requisitos:
 1.	La Tablet encendida y el altavoz encendido
 2.	El teléfono tiene que estar colgado para que el switch esté cerrado. 
 3.	La App “relatos en la espera” tiene que estar activa.
 4.	Conectar el Arduino en la Tablet. En el mensaje: “Allow the app Relatos en la Espera to acces the USB device” cliquear “Use by default for this USB device” y a continuación decir OK.
 
-Una vez todas las condiciones previas cumplan puede empezar la interacción.
+Una vez todas las condiciones previas cumplan puede empezar la interacción con el usuario (ciudadano o espectador):
+• La primera pantalla de la app dice: “tenemos una historia que contarte” e invita el usuario a acercarse. 
 
-La primera pantalla de la app dice: “tenemos una historia que contarte” e invita el usuario a acercarse. 
-Al acercarse el usuario a los 60 cm o más cerca el sensor ultrasonido hace que se active la siguiente pantalla que dice: “Hola, te estoy llamando” e invita el usuario descolgar el teléfono que en este momento está sonando.
+• Al acercarse el usuario a los 60 cm o más cerca el sensor ultrasonido hace que se active la siguiente pantalla que dice: “Hola, te estoy llamando” e invita el usuario descolgar el teléfono que en este momento está sonando.
 
-Al descolgar el usuario el teléfono que está sonando aparece directamente otra pantalla que pregunta: “¿Cuánto tiempo crees que vas a esperar?” y da la posibilidad al usuario a escoger un botón desde 1 minuto hasta más de 10 minutos. También se puede contestar “No lo sé”. Por el telefonillo se oye “Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que selecciones cuanto tiempo vas a esperar”.
+• Al descolgar el usuario el teléfono que está sonando aparece directamente otra pantalla que pregunta: “¿Cuánto tiempo crees que vas a esperar?” y da la posibilidad al usuario a escoger un botón desde 1 minuto hasta más de 10 minutos. También se puede contestar “No lo sé”. Por el telefonillo se oye “Hola soy Leo, estoy aquí para hacer tu espera más amena, lo único que necesito de ti es que selecciones cuanto tiempo vas a esperar”.
 
-Al elegir un botón el usuario se pasa a una nueva pantalla que dice “escúchame”. Por el telefonillo se oye un relato que dura aproximadamente el tiempo de la espera que ha seleccionado el usuario. Esta pantalla sigue así durante todo el tiempo que se oye el relato. 
+• Al elegir un botón el usuario se pasa a una nueva pantalla que dice “escúchame”. Por el telefonillo se oye un relato que dura aproximadamente el tiempo de la espera que ha seleccionado el usuario. Esta pantalla sigue así durante todo el tiempo que se oye el relato. 
 
-Una vez acabado el relato aparece una pantalla que dice “FIN” e indica los créditos del relato “Titulo, Autor, Locutor”. Después de un corto tiempo sale automáticamente otra pantalla que dice “Hasta Luego” y pide al usuario volver a colgar el teléfono para que otro usuario pueda seguir interactuando con el aparato. 
+• Una vez acabado el relato aparece una pantalla que dice “FIN” e indica los créditos del relato “Titulo, Autor, Locutor”. Después de un corto tiempo sale automáticamente otra pantalla que dice “Hasta Luego” y pide al usuario volver a colgar el teléfono para que otro usuario pueda seguir interactuando con el aparato. 
 
 ![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/instrucciones/funcionalidad_low.jpg)
 
 ### Instrucciones de mantenimiento
-+ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
-1. El altavoz bloutooh está adentro del telefono. Abrir la tapa de arriba y conectar el altavoz ( tiene un boton de ON/OFF) manualmente. 
-2. Hay que cargar la bateria de la tablet cada cierto tiempo, ya que la entrada USB se ocupa con el cable OTG y no permite cargar al mismo tiempo. Que hacer ? desconectar el OTG y cargar con el cargador que hay a disposicón. 
-3. Encender la tablet si está apagada. -> Tiene un boton de encendido y apagado que se accede por el hueco del telefono. 
++ ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuánto?
+1. Para que el aparato se mantenga encendido la tableta tiene que estar cargada. Para cargar dicho dispositivo hay que desenchufar el Arduino que está conectado en el puerto micro USB inferior y conectarlo a un cargador Android. 
+2. Para que el altavoz que está dentro del teléfono se mantenga encendido tiene que estar conectado a la batería portable que está dentro de la caja (abrir interior del artefacto).
+3. Para que la batería que está dentro de la caja se mantenga encendida tiene que estar conectada con un cargador Android desde un micro USB a un enchufe.
+
+• El power-bank está conectado al altavoz. 
+• 10000 (mAh) power bank / 250 (mAh) altavoz = 40 cargas
+• 40 cargas x 45 minutos la carga = 1800 minutos (30 horas)
+
+Se recomienda hacer el período de carga tanto de la batería portable como de la tableta cuando no esté en uso y al final de cada día. Aun así, la batería portable puede estar conectada también durante el uso del aparato. 
+
++ ¿Utiliza materiales desechables? ¿tintas? ¿papel?
+¿Utiliza materiales desechables? ¿tintas? ¿papel? Para la exposición se ha considerado pegar cinta adhesiva azul (emule a una parada de autobús):
+• suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se
+• expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. En la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
 
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
-Por ver, tiene varios bugs. Por ahora: *VUELVE Y CUELGA*
+• suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se 
+• expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor.
+• Para la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
 
 # Diario del proceso
 ### Semana 1
