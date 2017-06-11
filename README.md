@@ -250,7 +250,7 @@ Una vez todas las condiciones previas cumplan puede empezar la interacción con 
 Se recomienda hacer el período de carga tanto de la batería portable como de la tableta cuando no esté en uso y al final de cada día. Aun así, la batería portable puede estar conectada también durante el uso del aparato. 
 
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
-¿Utiliza materiales desechables? ¿tintas? ¿papel? Para la exposición se ha considerado pegar cinta adhesiva azul (emule a una parada de autobús):
+Para la exposición se ha considerado pegar cinta adhesiva azul (emule a una parada de autobús):
 • suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se
 • expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. En la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
