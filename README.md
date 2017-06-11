@@ -235,10 +235,17 @@ Por ver, tiene varios bugs. Por ahora: *VUELVE Y CUELGA*
 
 # Diario del proceso
 ### Semana 1
-Durante la primera semana, el cuestionamiento y la viabilidad del prototipo ha tomado el máximo protagonismo. Las mentorias han cuestionado y no han invitado a concentrarse en las historias para que el dispositivo sea lo más sencillo posible. 
-Tanteo de tecnologías a desarrollar. 
+En esta semana se hizo una presentación de la idea, los colaboradores expusieron sus perfiles y se comenzó con una definición del estado del arte que nos supuso una búsqueda de referencias para definirnos y diferenciarnos.
+Durante la primera semana, el cuestionamiento y la viabilidad del prototipo ha tomado el máximo protagonismo. Se analizó la viabilidad técnica y se cuestió el formato del prototipo: si era vía móvil/tablet, si era una app o si lo adaptábamos a un antiguo walkman con auriculares. Las mentorías han cuestionado las distintas áreas que forman el proyecto y nos han invitado a concentrarnos en las historias para que el dispositivo sea lo más sencillo posible. 
+
 ### Semana 2
-El desarrollo de las historias ha sido lo más importante, la busqueda y la localización de escritores y actores. El desarrollo del dispotivo básico, a pesar de la sencilles, ha necesitamo más tiempo del esperado. 
+El desarrollo de las historias ha sido lo más importante así como la búsqueda de escritores y actores que locuten e interpreten los textos. Se ha creado un texto, enviado a los autores, con pautas sobre cómo hemos definido que deben ser los relatos. Algunas de estas pautas por ejemplo son: que el relato se localice en la plaza de de Tirso de Molina y en concreto en la parada del autobús; que el tiempo de la historia sea el presente y sin saltos al pasado; o que tengan un lenguaje sencillo y directo puesto que van a ser relatos escuchados. Se ha realizado también la grabación de los audios con actores y locutores y hemos decidido mantener los diversos acentos de nuestros intérpretes porque hemos querido representar el abanico de nacionalidades de una ciudad como Madrid y en concreto de los usuarios de dicha plaza. 
+Asimismo esta semana hemos desarrollado el dispotivo básico así como la interfaz y los colores que la caracterizan (colores que hemos decidido que sean similares a los de la EMT para vincular nuestro prototipo con los tiempos de la espera de los autobuses); sin embargo a pesar de la sencillez, hemos necesitado mucho más tiempo del esperado. Han empezado a surgir errores tecnológicos fundamentalmente debidos a la interactuación entre el arduino y la tablet.
+
 ### Semana 3
-Compilación de la información recogida, testeo del producto y planteamiento de la exposición. 
+La última semana ha sido en la que más situaciones de tensión han surgido porque hemos detectado también errores de diseño.  Se ha salido a la parada del bus para hacer el testeo del producto y hemos constatado errores de funcionamiento. Hasta el último día no funcionó, y los ensayos se realizaron sin el dispositivo a pleno rendimiento.
+También en esta semana se ha compilado toda la información recogida, se ha llevado a cabo toda la producción de la narrativa y se ha hecho el planteamiento de la exposición. Se ha creado un panel informativo con unas aparentes paradas del autobús que refleja el recorrido del proyecto (origen Medialab, destino Relatos en la espera) y cuyas paradas son los títulos de todos los relatos.
+Los últimos días son de cierre y perfeccionamiento de los errores detectados. Y de preparativos de la exposición.
+
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/proceso-trabajo-interactivos17.jpg)
 
