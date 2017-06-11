@@ -181,12 +181,12 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 + Paloma Díez (autor)
 
 # Instrucciones
-### Instrucciones de Expo  ***Mirar***
+### Instrucciones de Expo
 + Video del proyecto, en la carpeta RELATO ( en el escritorio ). Arranca automatico en ubuntu con el video en fullscreen. 
 + Una Cabina telefónica con un telefono interactivo. 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/espacio-expositivos-RE-01.png)
 
-### Instrucciones de montaje y desmontaje  ***Mirar***
+### Instrucciones de montaje y desmontaje
 + Qué material se necesita
 1. Cabina de telefono interactiva.
 2. Cascos de audio para el vídeo.
