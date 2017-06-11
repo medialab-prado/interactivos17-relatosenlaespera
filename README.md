@@ -1,27 +1,16 @@
 - [0. Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
 - [1. Idea](#1-idea)
-- [2. Implementación](#2-implementación)
-- [2.1 Caso-a-estudiar](#2-2-caso-a-estudiar) 
+- [2. Implementación](#2-implementación) 
 - [3. Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
 - [4. Tecnología](#4-tecnología)
-- [5. Experiencia de usuario](#5-experiencia-de-usuario)
-- [6. Diseño de producto](#6-diseño-de-producto)
-- [7. Experiencia de usuario](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/README.md#7-experiencia-de-usuario)
-- [8. Testeo con usuarios](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/README.md#8-testeo-con-usuarios)
+- [5. Diseño de Interfaz de Usuario en producto digital](#5-diseño-de-interfaz-de-usuario-en-producto-digital)
+- [6. Diseño de producto · artefacto](#6-diseño-de-producto-artefacto)
+- [7. UX y testeo con usuarios](#ux-y-testeo-con-usuarios)
 - [Promotores y colaboradores:](#promotores-y-colaboradores)
-       - [Equipo:](#equipo:)
-       - [Colaboradores](#colaboradores)
-       - [Autores e Interpretadores de los textos](#autores-e-interpretadores-de-los-textos)
 - [Instrucciones](#instrucciones)
-       - [Instrucciones de montaje y desmontaje](#instrucciones-de-montaje-y-desmontaje)
-       - [Instrucciones de funcionamiento](#instrucciones-de-funcionamiento)
-       - [Instrucciones de mantenimiento](#instrucciones-de-mantenimiento)
 - [Diario del proceso](#diario-del-proceso)
-       - [Semana 1](#semana-1)
-       - [Semana 2](#semana-2)
-       - [Semana 3](#semana-3)
 
-# Interactivos17-Relatos en la Espera  
+# Interactivos17 - Relatos en la Espera  
 Antes de empezar a movernos con el transporte público vivimos en la ‘espera’, en un tiempo muerto e insignificante. ¿Qué objeto, suceso o acontecimiento nos puede despertar del letargo de esa espera?
 
 ![](LOGOFINAL.jpg)
@@ -34,7 +23,7 @@ Hoy en día los usuarios del transporte público suelen recibir información del
 
 ## 2. Implementación
 
-### 2.1. Estado del Arte 
+2.1. Estado del Arte 
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos que unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurre durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiadas bajo dos parámetros: nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegidos por su fuerte vinculación con el transporte; el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y por favorecer el alejamiento del teléfono móvil o de la publicidad de una ciudadanía volcada exclusivamente en lo visual.  
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-1Estado%20del%20Arte/casos-similares.png)
@@ -52,7 +41,7 @@ Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al tr
 + 11 Portadas de libros comprometidas (https://www.youtube.com/watch?v=2LyVVbhvStk)
 + 12 Photoshop en la pantalla (https://www.youtube.com/watch?v=jpRmQo1_4Es) 
 
-### 2.2. Caso a estudiar 
+2.2. Caso a estudiar 
 De los modos de transporte donde se lleva a cabo la espera, autobús, tren o metro, realizamos una investigación previa para determinar entre cuál de las opciones haríamos la prueba de escuchar los relatos y que además fuera viable en el periodo de tiempo disponible de Interactivos17 MediaLab.
 
 Para ello, relizamos una primera investigación de posibles estudios y estadísticas que determinaran la tipología de usuarios que frecuentan esos sistemas de transporte y el porcentaje de usuarios por hora y estación. Por ejemplo, en el caso del medio de transporte "metro" obtuvimos más información al respecto, como qué cantidad de pasajeros por estación y hora está condicionada por el entorno en el que se encuentra cada estación o como existen flujos de entrada de pasajeros en "períodos punta" en determinadas horas, o cuales representan un mayor uso en caso de usuario de que se mueven por razón de empleo-población, incluso qué estaciones de metro presentan concentraciones en la distribución de pasajeros de una manera más uniforme a lo largo del día, etc.
@@ -123,9 +112,9 @@ El producto final ha necesitado de:
 + Micro switch swap
 + Cable OTG
 
-### 4.1. Lets code
-#### 4.1.1. [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
-#### 4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
+4.1. Lets code
+4.1.1. [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
+4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
 
@@ -272,15 +261,15 @@ Para la exposición se ha considerado pegar cinta adhesiva azul (emule a una par
 • Para la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
 
 # Diario del proceso
-### Semana 1
+Semana 1
 En esta semana se hizo una presentación de la idea, los colaboradores expusieron sus perfiles y se comenzó con una definición del estado del arte que nos supuso una búsqueda de referencias para definirnos y diferenciarnos.
 Durante la primera semana, el cuestionamiento y la viabilidad del prototipo ha tomado el máximo protagonismo. Se analizó la viabilidad técnica y se cuestió el formato del prototipo: si era vía móvil/tablet, si era una app o si lo adaptábamos a un antiguo walkman con auriculares. Las mentorías han cuestionado las distintas áreas que forman el proyecto y nos han invitado a concentrarnos en las historias para que el dispositivo sea lo más sencillo posible. 
 
-### Semana 2
+Semana 2
 El desarrollo de las historias ha sido lo más importante así como la búsqueda de escritores y actores que locuten e interpreten los textos. Se ha creado un texto, enviado a los autores, con pautas sobre cómo hemos definido que deben ser los relatos. Algunas de estas pautas por ejemplo son: que el relato se localice en la plaza de de Tirso de Molina y en concreto en la parada del autobús; que el tiempo de la historia sea el presente y sin saltos al pasado; o que tengan un lenguaje sencillo y directo puesto que van a ser relatos escuchados. Se ha realizado también la grabación de los audios con actores y locutores y hemos decidido mantener los diversos acentos de nuestros intérpretes porque hemos querido representar el abanico de nacionalidades de una ciudad como Madrid y en concreto de los usuarios de dicha plaza. 
 Asimismo esta semana hemos desarrollado el dispotivo básico así como la interfaz y los colores que la caracterizan (colores que hemos decidido que sean similares a los de la EMT para vincular nuestro prototipo con los tiempos de la espera de los autobuses); sin embargo a pesar de la sencillez, hemos necesitado mucho más tiempo del esperado. Han empezado a surgir errores tecnológicos fundamentalmente debidos a la interactuación entre el arduino y la tablet.
 
-### Semana 3
+Semana 3
 La última semana ha sido en la que más situaciones de tensión han surgido porque hemos detectado también errores de diseño.  Se ha salido a la parada del bus para hacer el testeo del producto y hemos constatado errores de funcionamiento. Hasta el último día no funcionó, y los ensayos se realizaron sin el dispositivo a pleno rendimiento.
 También en esta semana se ha compilado toda la información recogida, se ha llevado a cabo toda la producción de la narrativa y se ha hecho el planteamiento de la exposición. Se ha creado un panel informativo con unas aparentes paradas del autobús que refleja el recorrido del proyecto (origen Medialab, destino Relatos en la espera) y cuyas paradas son los títulos de todos los relatos.
 Los últimos días son de cierre y perfeccionamiento de los errores detectados. Y de preparativos de la exposición.
