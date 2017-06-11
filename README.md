@@ -50,7 +50,7 @@ Finalmente, despues valorar distintas variables optamos por escoger el autobús,
 
 A continuación, de todas las líneas de autobuses que existen en Madrid, se decide por viabilidad en la experimentación y pruebas, escoger una única línea, para nuestro caso la 6. Esta línea no es de suministro, es decir no sirve para llevar a los usuarios a centros productivos de la ciudad, sino que es una línea de barrio que alimenta al barrio de Orcasitas y que puntualmente pasa por la ciudad. Por lo que los usuarios mayoritarios serían personas que viven en Madrid y frecuentan de manera recurrente dicha línea.
 
-![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-2%20Caso%20a%20estudiar/caso-tranporte-aubobuses-madrid.png)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-2%20Caso%20a%20estudiar/caso-tranporte-aubobuses-madrid.jpg)
 
 Además, de todas las paradas que tiene la línea 6, se escogió la que está en la plaza Tirso de Molina, y cuyas paradas de autobús recogen a más usuarios que no solo vienen de la línea 6.  Por tanto, se trata de una parada que está en una plaza muy transitada y con mucha diversidad de historia y gente, por lo que la hace ser más rica en experimentaciones para las personas que pasan por allí. Está ubicada en el centro de Madrid y cerca de Medialab Prado (lugar donde trabajamos de forma colaborativa y abierta). Otro aspecto relevante de dicha plaza es que al tener numeros árboles cercanos a la parada que dan sombra, eso favorece "el tiempo de espera" de los usuarios. Además favorece para implementación del prototipo pues evita los posibles reflejos en la pantalla y por tanto, que se obtenga una experiencia optima.
 
