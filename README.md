@@ -197,6 +197,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 1. Cable OTG se deconecta facilmente. 
 2. La tapa frontal hay que abrirla como si fuera una bisagra a su parte izquierda. 
 3. Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet ) manualmente. 
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/tripas-artefacto.jpg)
 
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga? ***Mirar***
