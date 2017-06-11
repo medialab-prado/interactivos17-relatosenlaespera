@@ -114,7 +114,7 @@ El producto final ha necesitado de:
 
 ### 4.1. Lets code
 ### 4.1.1. [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
-### 4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
+### 4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.ino)
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
 
