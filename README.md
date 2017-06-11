@@ -192,12 +192,14 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 2. Cascos de audio para el vídeo.
 
 + Cómo se ensambla todo
-1. Tenemos un powerBank que alimenta el altavoz bluetooh. 
+Tenemos un powerBank que alimenta el altavoz bluetooh.
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/tripas-artefacto.jpg)
+
 + En qué puntos hay que tener cuidado
 1. Cable OTG se deconecta facilmente. 
 2. La tapa frontal hay que abrirla como si fuera una bisagra a su parte izquierda. 
 3. Todos los elementos dejarlos conectados a sus cargadores ( powerback, tablet ) manualmente. 
-![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/tripas-artefacto.jpg)
+
 
 ### Instrucciones de funcionamiento
 + ¿Cómo se enciende? ¿Cómo se apaga?
@@ -215,14 +217,13 @@ Para apagar y encender la batería portable es necesario descolgar el teléfono 
 
 Para apagar y encender el altavoz es necesario abrir la puerta superior del teléfono y pulsar el botón posterior. Se puede comprobar que el altavoz está encendido porque puede verse una luz roja (encendido y cargando) o azul (encendido y no cargando).
 
-
 + ¿Qué hace exactamente? ¿Cómo interactuar con el dispositivo? (pensar que la gente que lo ve no ha estado en el taller). 
 Para poder interactuar con el aparato hay que cumplir con las siguientes condiciones con el orden indicado. 
 Requisitos:
-1.	La Tablet encendida y el altavoz encendido
-2.	El teléfono tiene que estar colgado para que el switch esté cerrado. 
-3.	La App “relatos en la espera” tiene que estar activa.
-4.	Conectar el Arduino en la Tablet. En el mensaje: “Allow the app Relatos en la Espera to acces the USB device” cliquear “Use by default for this USB device” y a continuación decir OK.
+1. La Tablet encendida y el altavoz encendido
+2. El teléfono tiene que estar colgado para que el switch esté cerrado. 
+3. La App “relatos en la espera” tiene que estar activa.
+4. Conectar el Arduino en la Tablet. En el mensaje: “Allow the app Relatos en la Espera to acces the USB device” cliquear “Use by default for this USB device” y a continuación decir OK.
 
 Una vez todas las condiciones previas cumplan puede empezar la interacción con el usuario (ciudadano o espectador):
 • La primera pantalla de la app dice: “tenemos una historia que contarte” e invita el usuario a acercarse. 
@@ -246,14 +247,12 @@ Una vez todas las condiciones previas cumplan puede empezar la interacción con 
 • El power-bank está conectado al altavoz. 
 • 10000 (mAh) power bank / 250 (mAh) altavoz = 40 cargas
 • 40 cargas x 45 minutos la carga = 1800 minutos (30 horas)
-
 Se recomienda hacer el período de carga tanto de la batería portable como de la tableta cuando no esté en uso y al final de cada día. Aun así, la batería portable puede estar conectada también durante el uso del aparato. 
 
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
 ¿Utiliza materiales desechables? ¿tintas? ¿papel? Para la exposición se ha considerado pegar cinta adhesiva azul (emule a una parada de autobús):
 • suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se
 • expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor. En la exposición se ha creado un panel simulado del recorrido de una línea de autobús. El formato de este documento es 18x41,1cm. En caso de que se dañase el panel debería volver a imprirse y pegarse sobre un panel de cartón pluma que tendrá las mismas medidas. Se colocará en el lugar que ese indica en el gráfico.
-
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
 • suelo: delimita el espacio donde ocurrirá la experiencia simulando una marquesina que ocupa 1m2. En caso de que se moviese la exposición sería necesario volver a pegar la cinta en el suelo tal y como se ha descrito. Además se 
 • expositor: con la cinta adhesiva se colocarán dos franjas, una colocada al final de la parte vertical del expositor y otra colocada al final de la parte inclinada del mismo expositor.
