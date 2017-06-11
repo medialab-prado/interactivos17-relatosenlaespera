@@ -6,7 +6,7 @@
 - [4. Tecnología](#4-tecnología)
 - [5. Experiencia de usuario](#5-experiencia-de-usuario)
 - [6. Diseño de producto](#6-diseño-de-producto)
-- [7. Experincia de usuario](#7.-Experiencia-de-usuario)
+- [7. Experiencia de usuario](#7.-Experiencia-de-usuario)
 - [Promotores y colaboradores](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
 - [Diario del proceso](#diario-del-proceso)
@@ -154,7 +154,7 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 ## 7. Experiencia de usuario
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/experiencia-usuario.jpg)
 
-## 7. Testeo con usuarios
+## 8. Testeo con usuarios
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/testeo-relatos-usuarios.jpg)
 
 
