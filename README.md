@@ -9,8 +9,6 @@
 - [Promotores y colaboradores](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
 - [Diario del proceso](#diario-del-proceso)
-    - [Interactivos17-Relatos en la Espera](#interactivos17-relatos-en-la-espera)
-       - [1-Idea](#1-idea)
        - [2-Implementación](#2-implementación)
          - [2-1 Estado del Arte.](#2-1-estado-del-arte.)
          - [2-2 Caso a estudiar.](#2-2-caso-a-estudiar.)
