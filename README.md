@@ -121,7 +121,7 @@ El producto final ha necesitado de:
 ## 5. Diseño de Interfaz de Usuario en producto digital
 Dado el diseño del prototipo, la experiencia de usuario en la interación con el producto digital, se ha basado en dos puntos importantes: en el diseño de un interface en la pantalla del dispositivo y en la primera experiencia auditiva que recibe el usuario.
 
-![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-app-relatos.jpg)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/5-Experiencia%20de%20usuario/ui-app-relatos.png)
 
 Partiendo de que los posibles usuarios más frecuentes que pudieran interactuar con nuestro "artefacto de relatos", eran personas mayores, debíamos hacer un diseño centrados en los mismos. Por lo que debíamos crear una interfaz intuitivamente obvia. Además, esto definió que para elaborar este prototipo usaramos una tableta y no un móvil (por tener una pantalla más grande).
 "Un sistema técnico es, en el contexto de una determinada tarea, intuitivamente utilizable mientras que el usuario en concreto es capaz de interactuar eficazmente, no conscientemente sino usando conocimiento previo." 
