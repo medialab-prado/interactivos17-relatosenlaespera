@@ -158,10 +158,11 @@ Para el modelado se ha utilizado el sowftware Solidwords, y para el corte láser
 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/6-Dise-o%20de%20producto/desarrollo-artefacto.jpg)
 
-## 7. Experiencia de usuario
+## 7. UX y testeo con usuarios
+Durante el proceso de desarrollo del prototipo, se salió a la calle en varias ocasiones midiendo distintas variables de nuestro proyecto
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/experiencia-usuario.jpg)
 
-## 8. Testeo con usuarios
+Antes de cerrar el protopipo definitivo se realizón un "test de usuario", en el que los usuarios experimentan con nuestro producto y/o servicio, y mediante la observación de los mismos sacamos conclusiones, errores y mejoras, que debe sufrir en proyecto. Para este caso se les pedía a los usuarios que esperaban el autobús, que interactuasen con nuestro Mínimo Producto Viable de "Relatos en la Espera" y escucharan un relato. La mayoría conseguían terminar la tarea de pincipio a fin, lo único que si pudimos observar, que cuando los relatos eran muy grandes dejaban de prestarle atención o se cansaban del proceso... por tanto, en este punto se tendría que volver a iterar.
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/imagenes/testeo-relatos-usuarios.jpg)
 
 
