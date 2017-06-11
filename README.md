@@ -36,7 +36,7 @@ Hoy en día los usuarios del transporte público suelen recibir información del
 ### 2.1. Estado del Arte 
 Se ha hecho un rastreo de otros proyectos que se han desarrollado en torno al transporte público. Proyectos que unas veces se han centrado en la lectura de un libro, en los anuncios que suelen estar en estas paradas o en lo que ocurre durante el viaje. Para localizar la propuesta de "Relatos en la Espera" en este entorno de referencias, se ha llevado a cabo un "Mapa de usuario" que permite reconocer todas las referencias estudiadas bajo dos parámetros: nivel de relación con el factor tiempo de espera y nivel de importancia de la oralidad. Ambos factores han sido elegidos por su fuerte vinculación con el transporte; el primero por su funcionalidad, el segundo por la capacidad de despertar la imaginación y por favorecer el alejamiento del teléfono móvil o de la publicidad de una ciudadanía volcada exclusivamente en lo visual.  
 
-![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-1Estado%20del%20Arte/MAPADEUSUARIO.jpg?raw=true)
+![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/2-1Estado%20del%20Arte/casos-similares.png)
 
 + 01 Axe, pantalla interactiva (https://www.youtube.com/watch?v=UIHwHqaY3SY)
 + 02 Expendedora de libros (http://www.lamasbella.es/bellamatic/) 
