@@ -119,10 +119,7 @@ El producto final ha necesitado de:
 ### 4.1. Lets code
 #### 4.1.1. [Android App](https://github.com/fagtrivino/relatosEnLaEspera) 
 #### 4.2.2. [Arduino y Sensores](https://github.com/fagtrivino/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sensor2.inoX)
-##### Diagrama esquemático
-![](https://raw.githubusercontent.com/fagtrivino/interactivos17-relatosenlaespera/master/4-Tecnologia/relatosEsquematico.png)
 
-Conexiones: 
 ![](https://github.com/medialab-prado/interactivos17-relatosenlaespera/blob/master/4-Tecnologia/sistema-electronico.png)
 
 ## 5. Diseño de Interfaz de Usuario en producto digital
