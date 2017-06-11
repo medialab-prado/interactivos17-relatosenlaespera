@@ -4,7 +4,7 @@
 - [3. Desarrollo de los relatos](#3-desarrollo-de-los-relatos) 
 - [4. Tecnología](#4-tecnología)
 - [5. Diseño de Interfaz de Usuario en producto digital](#5-diseño-de-interfaz-de-usuario-en-producto-digital)
-- [6. Diseño de producto · artefacto](#6-diseño-de-producto-artefacto)
+- [6. Diseño de producto · artefacto](##6-diseño-de-producto-artefacto)
 - [7. UX y testeo con usuarios](#ux-y-testeo-con-usuarios)
 - [Promotores y colaboradores:](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
@@ -162,7 +162,7 @@ Antes de cerrar el protopipo definitivo se realizón un "test de usuario", en el
 + Francisco García Triviño (http://www.kuneoffice.com/)
 + José Manuel López Ujaque (http://www.kuneoffice.com/)
 ### Colaboradores
-+ Sandra Vivar Maestre (www.sandramind.design/)
++ Sandra Vivar Maestre (www.sandramind.design)
 + Katalina Soto Rivera (https://www.behance.net/katakatasoto)
 + Mario Alejandro Alzate López (www.marioalzatelopez.com)
 + Inmanulada Marruecos Payán (www.behance.net/inmarru)
