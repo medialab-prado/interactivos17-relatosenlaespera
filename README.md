@@ -6,7 +6,7 @@
 - [5. Diseño de Interfaz de Usuario en producto digital](#5-diseño-de-interfaz-de-usuario-en-producto-digital)
 - [6. Diseño de producto · artefacto](#6-diseño-de-producto-·-artefacto)
 - [7. UX y testeo con usuarios](#7-ux-y-testeo-con-usuarios)
-- [Promotores y colaboradores:](#promotores-y-colaboradores)
+- [Promotores y colaboradores](#promotores-y-colaboradores)
 - [Instrucciones](#instrucciones)
 - [Diario del proceso](#diario-del-proceso)
 
