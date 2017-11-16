@@ -181,7 +181,7 @@ Antes de cerrar el protopipo definitivo se realizón un "test de usuario", en el
 + Julia Livaditi (autor)
 + Osvaldo Michelón (autor e interprete)
 + Paloma Díez (autor)
-+ Isa martin ruiz (autora e interprete)
++ Isa Martín Ruiz (autora e interprete)
 
 # Instrucciones
 ### Instrucciones de Expo
